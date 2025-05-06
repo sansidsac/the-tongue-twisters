@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Roboto Mono", monospace;
+}
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+  font-weight: 700;
+}
