@@ -1,0 +1,39 @@
+{
+    "twisters": [
+        {
+            "id": 1,
+            "text": "Peter Piper picked a peck of pickled peppers. A peck of pickled peppers Peter Piper picked. If Peter Piper picked a peck of pickled peppers,Where’s the peck of pickled peppers Peter Piper picked ?",
+            "difficulty": 1,
+            "language": "English",
+            "repetitions": 1
+        },
+        {
+            "id": 2,
+            "text": "She sells sea shells by the sea shore. The shells she sells are surely sea shells. So if she sells shells on the seashore, I’m sure she sells seashore shells.",
+            "difficulty": 2,
+            "language": "English",
+            "repetitions": 1
+        },
+        {
+            "id": 3,
+            "text": "How can a clam cram in a clean cream can?",
+            "difficulty": 1,
+            "language": "English",
+            "repetitions": 3
+        },
+        {
+            "id": 4,
+            "text": "I saw Susie sitting in a shoeshine shop. Where she shines she sits, and where she sits she shines.",
+            "difficulty": 2,
+            "language": "English",
+            "repetitions": 1
+        },
+        {
+            "id": 5,
+            "text": "Betty Botter bought some butter, but she said the butter’s bitter. If I put it in my batter, it will make my batter bitter. But a bit of better butter will make my batter better. So, ’twas better Betty Botter bought a bit of better butter.",
+            "difficulty": 3,
+            "language": "English",
+            "repetitions": 1
+        }
+    ]
+}
